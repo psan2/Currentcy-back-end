@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class UserCurrencyTest < ActiveSupport::TestCase
+class TrackersControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end

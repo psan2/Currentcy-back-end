@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  from_currency_id: 1
+  to_currency_id: 1
+
+two:
+  user: two
+  from_currency_id: 1
+  to_currency_id: 1
